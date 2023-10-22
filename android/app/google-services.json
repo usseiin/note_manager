@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445074585046",
+    "project_id": "noteskeeper-rge",
+    "storage_bucket": "noteskeeper-rge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445074585046:android:6f7eea24ef303d6600a077",
+        "android_client_info": {
+          "package_name": "com.gelbard.noteskeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC39XsoyYunz2_V6iIZI1bcmcKYP1Ge8IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

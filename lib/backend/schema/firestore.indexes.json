@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "notes",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "sharedUsers",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "creation_date",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
